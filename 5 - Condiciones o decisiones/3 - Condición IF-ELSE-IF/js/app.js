@@ -13,13 +13,13 @@ if (datoA > datoB){
 } else if (datoB == datoA){
     resultado = "La segunda condición se cumplió";
 }  else if (datoB == datoA){
-    resultado = "La segunda condición se cumplió";
+    resultado = "La tercera condición se cumplió";
 } else if (datoB >= datoA){
-    resultado = "La segunda condición se cumplió";
+    resultado = "La cuarta condición se cumplió";
 } else if (datoB <= datoA){
-    resultado = "La segunda condición se cumplió";
+    resultado = "La quinta condición se cumplió";
 } else if (datoB != datoA){
-    resultado = "La segunda condición se cumplió";
+    resultado = "La sexta condición se cumplió";
 } else {
 	resultado = "No se cumplieron las condiciones";
 }
